@@ -5,4 +5,4 @@ Grp project
 
 ## Output:
 
-<img width="100%" src="./assets/images/img001-combined.PNG" />
+<img width="100%" src="./assets/images/img01-combined.PNG" />
